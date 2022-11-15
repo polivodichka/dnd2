@@ -1,2 +1,2 @@
-# dnd2
+# react-drag-drop-forked
 Created with CodeSandbox
